@@ -1,6 +1,7 @@
 import io.restassured.specification.MultiPartSpecification;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
+import retrofit.utils.PropertyScanner;
 
 import java.io.IOException;
 import java.util.Properties;
